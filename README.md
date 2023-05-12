@@ -21,9 +21,9 @@ Para usar este script, asegúrate de tener un archivo CSV y un archivo Excel en 
 
 Luego, ejecuta el script con el siguiente comando:
 
-<code>python <NOMBRE_DEL_SCRIPT>.py</code>
+<code>python CSV2ExcelAuto.py</code>
 
 
-Donde `<NOMBRE_DEL_SCRIPT>` es el nombre del archivo que contiene el script.
+Donde `<CSV2ExcelAuto.py>` es el nombre del archivo que contiene el script.
 
 Después de ejecutar el script, se creará un nuevo archivo Excel llamado "ArchivoUnido.xlsx" que contiene los datos del archivo CSV con los encabezados del archivo Excel.

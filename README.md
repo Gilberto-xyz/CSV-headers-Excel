@@ -1,5 +1,3 @@
-# CSV-headers-Excel
-Script de python que permite agregarle los encabezados de un archivo excel a un CSV y exportarlo como Excel
 # CSV a Excel
 
 Este script de Python carga un archivo CSV y un archivo Excel de la carpeta actual, asigna los encabezados del archivo Excel al archivo CSV y luego guarda el archivo CSV en un nuevo archivo Excel llamado "ArchivoUnido.xlsx".

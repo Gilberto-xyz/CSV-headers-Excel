@@ -14,6 +14,10 @@ Puedes instalar estas bibliotecas usando `pip` con el siguiente comando:
 
 <code>pip install pandas xlsxwriter tqdm</code>
 
+o instalar mediante los requerimientos del archivo `requirements.txt` con el siguiente comando:
+
+<code> pip install -r requirements.txt</code>
+
 
 ## Uso
 
